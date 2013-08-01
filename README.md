@@ -1,8 +1,6 @@
 Agility-Playpit
 ===============
 
-test code for agility.js
+Test code for running a single page web app using Agility.js.
 
-Just a little playground for testing Agility.js single page web app.
-
-The app contains no other frameworks other than jQuery and Agility.
+There is a single html file (index.html). The main Agility code is in /scripts/mvc.
